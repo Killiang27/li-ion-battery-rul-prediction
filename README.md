@@ -6,7 +6,7 @@ LSTM neural network for predicting remaining useful life of Li-ion batteries usi
 **BEng Third Year Individual Project — Lancaster University**  
 Supervisor: Denes Csala · April 2026
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WGi96f8jgrBT6gio2NfmHA9ACX8ZV0A-?usp=drive_link)
 
 ---
 
